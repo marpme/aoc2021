@@ -1,4 +1,4 @@
-pub fn covert_vec (vector: Vec<String>) -> Vec<i32> {
+pub fn covert_vec(vector: Vec<String>) -> Vec<i32> {
     return vector.iter().map(str_to_i32).collect()
 }
 

@@ -1,3 +1,4 @@
+#[allow(unused_imports)]
 use crate::task1::entry::{task1, task1_2};
 
 #[test]
