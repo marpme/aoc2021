@@ -1,0 +1,19 @@
+{
+  "name": "aoc2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marpme/aoc2021.git"
+  },
+  "author": "marpme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marpme/aoc2021/issues"
+  },
+  "homepage": "https://github.com/marpme/aoc2021#readme"
+}
